@@ -1,3 +1,13 @@
 .carousel-item {
   height: 40rem;
 }
+
+.main-message {
+  padding: 100px;
+  background: url(images/myhand.jpg) center 60px no-repeat;
+  background-size: 640px auto;
+  background-color:rgba(255,255,255,0.8);
+  background-blend-mode:lighten;
+}
+
+
